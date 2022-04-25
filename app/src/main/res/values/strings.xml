@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JPMC_Coding_Challenge</string>
+    <string name="loading_schools">Loading Schools…</string>
+    <string name="sat_scores">Sat Scores</string>
+    <string name="city_and_zip">%1$s, %2$s</string>
+    <string name="average_sat_scores">[Average SAT scores]</string>
+    <string name="loading_scores">Loading Scores…</string>
+    <string name="sat_takers">Takers: %s</string>
+    <string name="reading_avg">Reading: %s</string>
+    <string name="math_avg">Math: %s</string>
+    <string name="writing_avg">Writing: %s</string>
+    <string name="no_sats">School does not have SAT data</string>
+</resources>
